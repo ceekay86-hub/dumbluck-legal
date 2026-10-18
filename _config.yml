@@ -1,0 +1,5 @@
+# GitHub Pages (Jekyll) settings for the Dumb Luck legal pages. Edit the pages here, not in the public repo.
+# Copied to the public ceekay86-hub/dumbluck-legal repo by scripts/publish-legal.sh and served at https://ceekay86-hub.github.io/dumbluck-legal/
+title: Dumb Luck
+description: The dumbest game you'll ever be addicted to.
+theme: jekyll-theme-primer
